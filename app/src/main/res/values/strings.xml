@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string-array name="company">
+        <item>Aramco</item>
+        <item>Sdaia</item>
+    </string-array>
+    <string name="button1">Overview</string>
+    <string name="button2">More Information</string>
+    <string name="overviewAramco">
+        Saudi Aramco is the world\'s largest oil producer.
+        Officially known as Saudi Arabian Oil Company, the company is primarily state-owned and is based in Dhahran,
+        Saudi Arabia. It is the world\'s most profitable company, eclipsing even tech giants such as Apple (AAPL) and Alphabet\'s Google (GOOGL).
+    </string>
+    <string name="reasonAramco">
+        Work environment in the refinery is akin to human relations in that you share your expertise and training nationals.
+        Professional people. Salary competitive. Working with diverse people. Meet a lot of professionals with different fields of expertise.
+    </string>
+    <string name="overviewSdaia">
+        The Saudi Data and AI Authority (SDAIA) is a government agency in Saudi Arabia that was established by a royal decree.
+        The authority has three other bodies linked to it.
+        Two of which were also created by a royal decree on the same day.
+        These two bodies are a center called "The National Centre for Artificial Intelligence" and an office called "The National Data Management Office.
+        The third is the National Information Center, which is an existing entity.
+    </string>
+    <string name="reasonSdaia">
+        Because it is a distinguished organization in the field of software engineering and artificial intelligence,
+        it will provide me with good experience.
+        In addition to the stimulating work environment and the formation of a network of relationships
+
+    </string>
+    <string name="urlAramco">
+        <u>https://www.aramco.com/en/</u>
+    </string>
+
+    <string name="urlSdaia">
+        <u>https://sdaia.gov.sa/</u>
+    </string>
+
+
+
+</resources>
